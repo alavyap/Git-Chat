@@ -21,7 +21,7 @@ Git Chat is a live and responsive web application designed for GitHub users to c
 
 ## Installation
 
-![ScreenShot][GitChat.png]
+![ScreenShot](GitChat.png)
 
 To run Git Chat locally, follow these steps:
 
