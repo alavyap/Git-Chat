@@ -35,33 +35,33 @@ To run Git Chat locally, follow these steps:
   cd client
   npm install
 
-#For Backend 
-cd ../server
-npm install
-
-
-Create a .env file in the server directory with the following variables:
-
-MONGODB_URI=<your_mongodb_connection_string>
-JWT_SECRET=<your_jwt_secret_key>
-PORT=5000
-Replace <your_mongodb_connection_string> with your MongoDB connection string and <your_jwt_secret_key> with a secure secret key for JWT.
-
-Start the Application
-
-Start the Backend Server:
-
-cd server
-npm start
-Start the Frontend Development Server:
-
-Open a new terminal window:
-
-cd client
-npm start
-Access the Application
-
-Open your browser and navigate to http://localhost:3000 to access the Git Chat application.
+   #For Backend 
+   cd ../server
+   npm install
+   
+   
+   Create a .env file in the server directory with the following variables:
+   
+   MONGODB_URI=<your_mongodb_connection_string>
+   JWT_SECRET=<your_jwt_secret_key>
+   PORT=5000
+   Replace <your_mongodb_connection_string> with your MongoDB connection string and <your_jwt_secret_key> with a secure secret key for JWT.
+   
+   Start the Application
+   
+   Start the Backend Server:
+   
+   cd server
+   npm start
+   Start the Frontend Development Server:
+   
+   Open a new terminal window:
+   
+   cd client
+   npm start
+   Access the Application
+   
+   Open your browser and navigate to http://localhost:3000 to access the Git Chat application.
 
 # Contributing
 Feel free to submit issues or pull requests if you have suggestions or improvements for Pixel Paint.
