@@ -35,7 +35,7 @@ To run Git Chat locally, follow these steps:
   cd client
   npm install
 
-   #For Backend 
+   # For Backend 
    cd ../server
    npm install
    
