@@ -64,7 +64,7 @@ To run Git Chat locally, follow these steps:
    Open your browser and navigate to http://localhost:3000 to access the Git Chat application.
 
 # Contributing
-Feel free to submit issues or pull requests if you have suggestions or improvements for Pixel Paint.
+Feel free to submit issues or pull requests if you have suggestions or improvements for Git Chatt.
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
